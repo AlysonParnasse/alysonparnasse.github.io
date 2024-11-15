@@ -1,0 +1,97 @@
+/* Fonts
+Nav bar : Unbuntu 
+Titre : Cooper black
+Paragraphes : Indie flowuer
+ */
+/* Table des matières
+  
+ */
+* {
+  margin: 0;
+  padding: 0;
+}
+@font-face {
+  font-family: "Ubuntu";
+  src: url("../fonts/Ubuntu-Regular.ttf") format("TrueType");
+}
+@font-face {
+  font-family: "Cooper_Black";
+  src: url("../fonts/COOPBL.TTF") format("TrueType");
+}
+@font-face {
+  font-family: "Indie_Flower";
+  src: url("../fonts/IndieFlower-Regular.ttf") format("TrueType");
+}
+@font-face {
+  font-family: "Inter";
+  src: url("../fonts/Inter-Regular.ttf") format("TrueType");
+}
+@font-face {
+  font-family: "Inter-Bold";
+  src: url("../fonts/Inter-Bold.ttf") format("TrueType");
+}
+h1 {
+  font-family: "Indie_Flower";
+  font-size: 50px !important;
+}
+h2 {
+  font-family: "Cooper_Black";
+  font-size: 40px !important;
+}
+
+h4 {
+  font-family: "Inter-Bold";
+  font-size: 15px;
+  font-weight: bolder;
+}
+p {
+  font-family: "Indie_Flower";
+  font-size: 20px !important;
+}
+
+/* Header */
+
+#projetficif {
+    height: 10px;
+}
+
+header .header {
+  background-color: #ddd2fa;
+}
+li {
+  font-family: "Ubuntu";
+  font-size: 23px;
+  text-decoration: none;
+}
+header p {
+  font-family: "Inter";
+  font-size: 15px !important;
+}
+.nav-link {
+  margin-right: 40px;
+}
+
+.hero {
+    width: 100%;
+    height: 70vh;
+    background-image: url(../images/image\ principale.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  #numeromailadress {
+    background-color: #fee1f1;
+    width: 100%;
+  }
+  
+  #numeromailadress a {
+    color: black;
+  }
+
+
+
+
+
+  /* Main */
+
+

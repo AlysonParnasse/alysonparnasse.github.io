@@ -1,0 +1,32 @@
+/* Header */
+
+#projetficif {
+  height: 10px;
+}
+
+header .header {
+background-color: #ddd2fa;
+}
+li {
+font-family: "Ubuntu";
+font-size: 23px;
+text-decoration: none;
+}
+header p {
+font-family: "Inter";
+font-size: 15px !important;
+}
+.nav-link {
+margin-right: 40px;
+}
+
+
+
+#marguerite {
+    background-color: #FEE1F1;
+  }
+
+  #marguerite img {
+    background-color: #FEE1F1;
+    border-radius: 80%;
+  }
